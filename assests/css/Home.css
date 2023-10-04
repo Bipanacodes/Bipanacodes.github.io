@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://www.enwallpaper.com/wp-content/uploads/photo-1594819167477-290dd33b4daa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nav {
+    background-color: violet;
+    margin-top: 15px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 1px;
+    margin-right: 5px;
+    padding: 10px;
+
+
+}

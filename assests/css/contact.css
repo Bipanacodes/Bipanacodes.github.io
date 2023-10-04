@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1168712872/photo/white-abstract-backgrounds.jpg?s=2048x2048&w=is&k=20&c=k5yH3q290Uqcyjf3XMDpUE6taGsqQahCpQD3R8N-Rgo=");
+    background-repeat: no-repeat;
+    background-position: ;
+}
+.nav {
+    background-color: violet;
+    margin-top: 15px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 1px;
+    margin-right: 5px;
+    padding: 10px;
+
+
+}

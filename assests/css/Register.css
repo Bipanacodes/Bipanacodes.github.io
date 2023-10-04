@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://media.istockphoto.com/id/502790008/photo/builders-and-paving.jpg?s=2048x2048&w=is&k=20&c=H3yaZwozWaGI1bw3iayzAmF06EBUe67emzG314xpBU4=");
+}
+
+form {
+    background: transparent;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    box-sizing: border-box;
+    margin-left: 550px;
+    border-left-width: 50px;
+    height: 500px;
+    box-shadow: 0 0 50px plum;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    overflow: hidden;
+}
+
+.nav {
+    background-color: transparent;
+    margin-top: 2px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 1px;
+    margin-right: 5px;
+    padding: px;
+
+}

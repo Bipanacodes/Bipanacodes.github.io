@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://plus.unsplash.com/premium_photo-1663091946297-8050202e1a63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav {
+    background-color: transparent;
+    margin-top: 3px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 1px;
+    margin-right: 5px;
+    padding: 0px;
+
+
+}

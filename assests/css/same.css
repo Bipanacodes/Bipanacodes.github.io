@@ -4,3 +4,27 @@
     justify-content: center;
     flex-direction: column;
 }
+
+.nav {
+    background-color: violet;
+    margin-top: 15px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 1px;
+    margin-right: 5px;
+    padding: 10px;
+
+
+}
+
+.nav {
+    background-color: transparent;
+    margin-top: 3px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 1px;
+    margin-right: 5px;
+    padding: 1px;
+
+
+}
